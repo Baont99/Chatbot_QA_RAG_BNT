@@ -24,11 +24,10 @@ Retrieves your external IP address using the wget command.
 !wget -q -O - ipv4.icanhazip.com
 ```
 
-Write source code into the app.py file and run: %%writefile app.py
-Run
+Write source code into the app.py file and run: %%writefile app.py and run
 ```
 streamlit run app.py & npx localtunnel --port 8501
-'''
+```
 
 [Or run in the Colab](https://colab.research.google.com/drive/1a8b2N4hh8SHkpfTVFf1E1_3uNXztnA1J#scrollTo=PPQnNWkIumIr)
 
