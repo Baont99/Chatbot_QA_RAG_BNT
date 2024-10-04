@@ -1,0 +1,10 @@
+moviepy 
+whisper
+openai-whisper
+langchain_community
+langchain 
+faiss-cpu 
+sentence-transformers 
+chromadb
+langchain_co
+streamlit -q
